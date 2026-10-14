@@ -177,6 +177,8 @@ body,
 .art-note.note-two {
   background: var(--cyan);
   color: #041018;
+  font-size: 14px;
+  letter-spacing: -0.02em;
 }
 
 .home-hero-copy {
@@ -196,6 +198,11 @@ body,
   color: var(--ink);
   border-color: var(--cyan);
   background: rgba(4, 10, 22, 0.72);
+}
+
+.hero-stamp strong {
+  font-size: 11px;
+  letter-spacing: -0.07em;
 }
 
 .hero-stamp:before,
